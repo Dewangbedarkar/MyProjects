@@ -1,4 +1,5 @@
 # MyProjects
 This is my first Git Repository.
 <br>
-Author - Dewang Bedarkar
+Author - Dewang (SHER)
+
